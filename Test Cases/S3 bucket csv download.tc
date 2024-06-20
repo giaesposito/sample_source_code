@@ -4,5 +4,6 @@
    <name>S3 bucket csv download</name>
    <tag></tag>
    <comment></comment>
+   <recordOption>OTHER</recordOption>
    <testCaseGuid>0c375535-2897-4e06-b7c0-47b58e68bf8b</testCaseGuid>
 </TestCaseEntity>
