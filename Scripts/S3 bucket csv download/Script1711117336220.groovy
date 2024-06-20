@@ -28,8 +28,8 @@ import java.nio.file.Paths
 
 
 // AWS credentials
-def accessKeyId = "AKIA5FTZDEZ5STG5FMUE"
-def secretAccessKey = "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"
+def accessKeyId = System.getenv('accessKeyID')
+def secretAccessKey = System.getenv('secretAccessKey')
 def region = "us-east-1"
 
 // Create AWS credentials object
