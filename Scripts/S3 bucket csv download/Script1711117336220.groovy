@@ -16,6 +16,6 @@ def objectKey = "credentials - Sheet1.csv"
 // Specify local file path to save the downloaded object
 def localFilePath = RunConfiguration.getProjectDir()+ "/Data Files/credentials-Sheet1.csv"
 
-
+//Method call
 bucket = new S3_buckets()
 bucket.s3ObjectDownload(accessKeyId, secretAccessKey, region, bucketName, objectKey, localFilePath)
