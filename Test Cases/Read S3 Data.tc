@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Read S3 Data</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>07c0dd11-01b1-476d-ac37-11f1439d7f7e</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>2f98bb58-0087-461c-8a75-a521972c868d</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/S3 Bucket</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>2f98bb58-0087-461c-8a75-a521972c868d</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>username</value>
+      <variableId>103a2701-6333-4c36-8fb8-a9cbdd2f6fab</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>2f98bb58-0087-461c-8a75-a521972c868d</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>password</value>
+      <variableId>3f4b495f-7d83-4625-a64c-1b5a65a8b69c</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>103a2701-6333-4c36-8fb8-a9cbdd2f6fab</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>3f4b495f-7d83-4625-a64c-1b5a65a8b69c</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

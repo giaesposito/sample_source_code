@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "740BF6448F476F9A37C554EB1E7EABB9",
+  "keywordClasses": [
+    {
+      "name": "aws.S3_buckets",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}
