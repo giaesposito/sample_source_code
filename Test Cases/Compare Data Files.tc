@@ -6,4 +6,13 @@
    <comment></comment>
    <recordOption>OTHER</recordOption>
    <testCaseGuid>553db9af-9ca0-4dc9-b3c8-9c93ad3cd8ba</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>7b84d108-9c21-48d1-b456-80ce3741cfae</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/S3 Bucket</testDataId>
+   </testDataLinks>
 </TestCaseEntity>
